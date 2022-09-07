@@ -11,7 +11,7 @@
 /* Boolean Data Type */
 typedef unsigned char boolean;
 
-/* Boolean Values */
+/* Boolean Macros Values */
 #ifndef FALSE
 #define FALSE       (0U)
 #endif
